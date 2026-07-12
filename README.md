@@ -1,5 +1,5 @@
-﻿# petproject-spring-1
- # petproject-spring-1 — коротке резюме
+
+ # petproject-spring-1 
 
 ## Опис проєкту
 
